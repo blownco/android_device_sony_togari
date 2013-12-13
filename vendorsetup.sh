@@ -1,1 +1,2 @@
 add_lunch_combo omni_togari-eng
+add_lunch_combo revolution_togari-eng
